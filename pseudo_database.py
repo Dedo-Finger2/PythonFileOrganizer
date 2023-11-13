@@ -14,6 +14,8 @@ file_extension_folder_name = {
     '.jpeg': 'Imagens',
     '.php': 'Códigos PHP',
     '.css': 'Códigos CSS',
+    '.js' : 'Códigos JS',
+    '.java' : 'Códigos Java',
     '.html': 'Códigos HTML',
     '.python': 'Códigos Python',
     '.mwb': 'Modelos lógicos',
@@ -32,6 +34,7 @@ file_extension_folder_name = {
     '.dll': 'DLLs',
     '.crdownload': 'Downloads inacabados',
     '.txt': 'Textos',
+    '.code-workspace': 'VsCode Workspaces',
 }
 
 white_listed_directories = {
